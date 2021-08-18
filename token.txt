@@ -1,1 +1,28 @@
 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
+
+gua que problemon con esa cosa, aca le dejo un tuto pal futuro:
+
+
+este error
+
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+
+pues sale porque los de git actualizaron el sistema de seguridad
+
+tonces necesita un token personal.
+
+Primero:
+
+Cree un token desde your count de GITHUD
+
+Segundo:
+
+guarde el "token" pa que no se le pierda
+
+Tercero:
+
+Use el siguiente comando:
+
+git remote set-url origin https://<Tu Id De Token Personal>@github.com/<La URL de tu repositorio en GIT>
+
+Las cosas que estan encerradas en < > son para remplazar, junto con los <>.
