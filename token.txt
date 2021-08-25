@@ -26,3 +26,5 @@ Use el siguiente comando:
 git remote set-url origin https://<Tu Id De Token Personal>@github.com/<La URL de tu repositorio en GIT>
 
 Las cosas que estan encerradas en < > son para remplazar, junto con los <>.
+
+puffff
