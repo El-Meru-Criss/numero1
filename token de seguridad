@@ -1,11 +1,11 @@
 pa que no se me olvide
 
-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
+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
 
 
 git remote set-url origin https://<Tu Id De Token Personal>@github.com/<La URL de tu repositorio en GIT>
 
 Las cosas que estan encerradas en < > son para remplazar, junto con los <>.
 
-git remote set-url origin https://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@github.com/<La URL de tu repositorio en GIT>
+git remote set-url origin https://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@github.com/El-Meru-Criss/pagina_PIG.git
 
