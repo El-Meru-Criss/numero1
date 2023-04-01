@@ -1,0 +1,12 @@
+Esto es un tuto para mi yo del futuro.
+
+Cuando salga el error de
+
+remote: Support for password authentication was removed on August 13, 2021.
+
+ya no se usa la contraseña, sino que ya como contraseña debes de 
+generar un toquen, y ese lo copias y pegas como contraseña
+
+puedes generar tantos como quieras, haslo cada vez que vayas a hacer un
+
+git push
